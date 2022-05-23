@@ -1,0 +1,4 @@
+export GITHUB_TOKEN=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
+export GITHUB_USER=jeremymordkoff
+export GITHUB_REPO=JeremyMordkoff/flux2-kustomize-helm-example
+
